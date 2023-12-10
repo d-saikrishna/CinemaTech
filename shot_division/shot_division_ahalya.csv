@@ -1,64 +1,64 @@
-action,shot,lens,CGI?
+action,shot,lens,CGI?,props
 "﻿INT. KITCHEN. DAY FADE IN.
-",,,
+",,,,['DAY']
 "A dustbin is loaded beyond its capacity. Gautam litters more.
-",,,
+",,,,"['dustbin', 'capacity', 'Gautam']"
 "Gautam had just woke up and played music on his phone. He is making his coffee. 
-",,,
+",,,,"['music', 'phone', 'coffee']"
 "Ahalya hugged him from behind. Bags (trolly) still with her.
-",,,
+",,,,['Bags']
 "Gautam: Baby, I missed you. 
-",,,
+",,,,['Gautam']
 "And kissed her.
-",,,
+",,,,[]
 "Ahalya: I miss you too.
-",,,
+",,,,[]
 "And hugged him tight.
-",,,
+",,,,[]
 "Still hugging. She saw the pile of waste undisposed. Disappointed.
-",,,
+",,,,"['pile', 'waste']"
 "Ahalya: Gautam I asked you to dispose the dustbin everyday. Looks like you haven’t done it for the week.
-",,,
+",,,,"['dustbin', 'week']"
 "She broke the hug and walked towards the dustbin.
-",,,
+",,,,"['hug', 'dustbin']"
 "Gautam: Arey Sorry Sorry, Let me do this now. 
-",,,
+",,,,['Gautam']
 "He rushed towards the dustbin trying to overtake Ahalya.
-",,,
+",,,,['dustbin']
 "Ahalya: It’s okay. I’ll do it now. 
-",,,
+",,,,[]
 "Ahalya and Gautam keep overtaking. Ahalya reached the bin and started clearing. She found disposed condom packets.
-",,,
+",,,,"['bin', 'condom', 'packets']"
 "She held them against him.
-",,,
+",,,,[]
 "Gautam: Baby, I can explain…
-",,,
+",,,,['Gautam']
 "Ahalya searched the Kitchen while Gautam was trying to explain and control her.
-",,,
+",,,,[]
 "She took the knife and stabbed him in the chest. 
-",,,
+",,,,"['knife', 'chest']"
 "Blood on her face.
-",,,
+",,,,"['Blood', 'face']"
 "And then stabbed him multiple times in his crotch. Screaming, Crying. Volatile.
-",,,
+",,,,"['times', 'crotch']"
 "She then drew her bag behind her. Sat by it and calmed.
-",,,
+",,,,['bag']
 "Looked at the dead body. Bloody.
-",,,
+",,,,['body']
 "Ahalya collected a cigarette.
-",,,
+",,,,['cigarette']
 "Took a long puff and smoked.
-",,,
+",,,,['puff']
 "Title- AHALYA. (Ahalya and Gautam in frame)
-",,,
+",,,,['frame']
 "Ahalya put off the cigarette on [Gautam’s]() crotch. And left.
-",,,
+",,,,"['cigarette', 'crotch']"
 "She took the mop and cleaned the floor. 
-",,,
+",,,,"['mop', 'floor']"
 "Disposed it in dustbin
-",,,
+",,,,['dustbin']
 "cleared the bin.
-",,,
+",,,,[]
 "Empty bin, with blood stains.
-",,,
-FADE OUT. ,,,
+",,,,"['blood', 'stains']"
+FADE OUT. ,,,,[]

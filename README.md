@@ -12,3 +12,14 @@ Script format:
 
 Ideal:
 1. The resulting shot division should be the optimum one. If all the shots are captured, essentially all the actions are captured without any duplication. Director can ofcourse choose duplication on sets for other purposes.
+
+Props:
+
+One of the variables required in the shot_divison template is the `props` variable. It is basically the list of properties used in each shot.
+I am assuming that a property is nothing but a `noun` present in the sentence. So, I will search for them using NLP. Ofcourse, this gives me all unneccessary nouns (Proper nouns etc) - which I can filter later. I think it did a decent job.
+
+For this, I used spaCy - English Language model.
+```
+pip install spacy
+python -m spacy download en_core_web_sm
+```
